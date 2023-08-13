@@ -70,5 +70,12 @@ h2 {
     border-bottom: 2px solid #333;
 }
 
+/* Your existing CSS styles */
+
+/* Add this to your styles.css file */
+.badge-right {
+    float: right;
+    margin-left: 20px; /* Adjust this value to control the space between the badge and other content */
+}
 
 
