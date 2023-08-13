@@ -74,7 +74,7 @@ h2 {
 .badge-base {
     position: absolute;
     top: 20px; /* Adjust this value to control the vertical position */
-    right: 20px; /* Adjust this value to control the horizontal position */
+    right: 60px; /* Adjust this value to control the horizontal position */
 }
 
 
