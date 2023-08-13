@@ -70,5 +70,13 @@ h2 {
     border-bottom: 2px solid #333;
    
 }
+/* Your existing CSS styles */
+
+/* Align LinkedIn badge to the right */
+.badge-base {
+    float: right;
+    margin-top: 25px; /* Adjust this value to control the vertical position */
+}
+
 
 
