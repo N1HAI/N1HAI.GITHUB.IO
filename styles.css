@@ -73,7 +73,7 @@ h2 {
 /* Align LinkedIn badge to the right corner */
 .badge-base {
     position: absolute;
-    top: 500px; /* Adjust this value to control the vertical position */
+    top: 20px; /* Adjust this value to control the vertical position */
     right: 20px; /* Adjust this value to control the horizontal position */
 }
 
