@@ -77,6 +77,13 @@ h2 {
     float: right;
     margin-top: 25px; /* Adjust this value to control the vertical position */
 }
+/* Align LinkedIn badge to the right */
+.profile-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 
 
 
